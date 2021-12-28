@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+    border: 1px solid magenta;
+    width: 130px;
+    padding: 50px;
+}
+
+p {
+    color: magenta;
+}
+
+* {
+    color: green !important;
+}
