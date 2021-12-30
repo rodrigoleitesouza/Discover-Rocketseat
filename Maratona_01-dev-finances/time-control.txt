@@ -3,6 +3,9 @@
 -------- CONTROLE DE TEMPO! ----------
 --------------------------------------
 
-Estou no vídeo 02 no tempo de 1:37:30!
+[X] Vídeo 01 - Finalizado!
+[X] Vídeo 02 - Finalizado!
+[ ] Vídeo 03 - Iniciar daqui!
+[ ] Vídeo 04 - Não iniciado!
 
 --------------------------------------
