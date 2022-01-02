@@ -3,9 +3,9 @@
 -------- CONTROLE DE TEMPO! ----------
 --------------------------------------
 
-[X] Vídeo 01 - Finalizado!
-[X] Vídeo 02 - Finalizado!
-[ ] Vídeo 03 - Iniciar daqui!
+[X] Vídeo 01 - Done
+[X] Vídeo 02 - Done
+[X] Vídeo 03 - Done
 [ ] Vídeo 04 - Não iniciado!
 
 --------------------------------------
