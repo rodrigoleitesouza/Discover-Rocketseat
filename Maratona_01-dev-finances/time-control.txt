@@ -6,6 +6,6 @@
 [X] Vídeo 01 - Done
 [X] Vídeo 02 - Done
 [X] Vídeo 03 - Done
-[ ] Vídeo 04 - Não iniciado!
+[X] Vídeo 04 - Done
 
 --------------------------------------
