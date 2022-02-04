@@ -1,7 +1,7 @@
-# Discover_Rocketseat
+# Discover-Rocketseat 📕
 
 Repositório dos meus estudos referentes ao curso Discover da Rocketseat!
 
-Eventualmente sofrerá atualizações até que seja finalizado!
+------------------------------------------------------------------
 
-~
+Qualquer dúvida entre em contato por <a href="mailto:rodrigoleitesouza@gmail.com?">rodrigoleitesouza@gmail.com</a>
