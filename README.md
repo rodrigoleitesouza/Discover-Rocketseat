@@ -2,7 +2,9 @@
 
 Repositório dos meus estudos referentes ao curso Discover da Rocketseat!
 
-Conhecimentos e tecnologias desenvolvidas:
+Segue abaixo os conhecimentos e as tecnologias desenvolvidas:
+
+------------------------------------------------------------------
 
 - Compreensão da Internet;
 - Funcionamento da web: Cliente-Servidor;
