@@ -6,8 +6,8 @@ Segue abaixo os conhecimentos e as tecnologias desenvolvidas:
 
 ------------------------------------------------------------------
 
-- Compreensão da Internet;
-- Funcionamento da web: Cliente-Servidor;
+- Funcionamento da Internet;
+- Fluxo Web: Cliente-Servidor;
 - Aplicações Web;
 - Lógica de Programação;
 - JavaScript;
@@ -23,7 +23,7 @@ Segue abaixo os conhecimentos e as tecnologias desenvolvidas:
 - Programação Funcional;
 - Git;
 - GitHub;
-- HTTP.
+- Noções de HTTP.
 
 ------------------------------------------------------------------
 
